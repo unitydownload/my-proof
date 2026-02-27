@@ -5,10 +5,13 @@
   <title>My all project</title>
   <head>
     <body>
+      
+    </body>
+    </html>
 <meta charset="UTF-8">
 
-</body>
-</html>
+
+
 <style>
 body{
   margin:0;
