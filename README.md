@@ -2,9 +2,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>My all project</title>
+  <head>
+    <body>
 <meta charset="UTF-8">
-<title>My all project</title>
 
+</body>
+</html>
 <style>
 body{
   margin:0;
