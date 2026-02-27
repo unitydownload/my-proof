@@ -3,8 +3,6 @@
 <html lang="en">
 <head>
   <title>My all project</title>
-</head>
-</body>
 <meta charset="UTF-8">
 
 
